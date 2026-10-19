@@ -37,10 +37,8 @@ git clone https://github.com/YOUR_USERNAME/html-to-elementor.git ~/.gemini/confi
 ## 💡 How to Use
 
 In any Antigravity chat workspace, simply prompt the agent:
-
-> *"Using the `html-to-elementor` skill, convert this website into importable Elementor JSON templates."*
 > "استخدم مهارة html-to-elementor وحول الموقع"
-
+> *"Using the `html-to-elementor` skill, convert this website into importable Elementor JSON templates."*
 ## 🧪 Testing Templates
 
 Validate any generated Elementor JSON template locally:
